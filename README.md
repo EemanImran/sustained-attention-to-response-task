@@ -29,7 +29,7 @@ function documentation below for details):
 
 Self-Contained Functions (Argument=Default Value):
 
-sart(monitor="testMonitor", blocks=1, reps=5, omitNum=3, practice=True, 
+sart(monitor="testMonitor", blocks=1, reps=3, omitNum=3, practice=True, 
      path="", fixed=False)
      
 * monitor: The monitor to be used for the task.
